@@ -26,8 +26,6 @@ Do an analysis on the data
 
 Create a visualization / presentation
 
-Prepare a 3-minute presentation – no more, no less
-
 MyData from: 
 
 Google Takeout - Your account, your data.
